@@ -3,4 +3,4 @@ Un memory pas comme les autres développé avec FuncSug.
 
 Ici on peut avoir des paires commme dans un mémory classique ou des tierces, voir plus. 
 
-Bon jeu 
+[Bon jeu](https://vbatcnam.github.io/memory-avec-FuncSug/memory.html) 
